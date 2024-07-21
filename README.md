@@ -1,5 +1,5 @@
 # electronic-body-carrier
-Designed a CAD model for an electronic-body-carrier for Indian Hospitals (Patent Pending)
+Designed a CAD model for an electronic-body-carrier for Indian Hospitals (Patent Pending).
 
 
 ![Image Description](main.png)
